@@ -1,3 +1,0 @@
-# Only the symbolic and independent-Arb audits need third-party packages.
-sympy==1.14.0
-python-flint==0.9.0
